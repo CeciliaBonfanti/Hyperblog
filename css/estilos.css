@@ -46,6 +46,9 @@ body{
     background: white;
     padding: 1em;
 }
+.img {
+    text-align: center;
+}
 #footer{
     background: gray;
     color: white;
