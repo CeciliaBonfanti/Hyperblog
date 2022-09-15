@@ -1,5 +1,5 @@
 body{
-    background: #292A2A;
+    background: pink;
     text-align: center;
     font-family: "Arial";
     color: #333;
@@ -50,7 +50,7 @@ body{
     text-align: center;
 }
 #footer{
-    background: gray;
+    background: #33A;
     color: white;
     text-align: center;
     padding: 10px;
