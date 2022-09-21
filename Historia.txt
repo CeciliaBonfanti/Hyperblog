@@ -6,4 +6,8 @@ Mañana nos enfocaremos en su vida laboral
 
 Master 1
 
+<<<<<<< HEAD
 Master 2
+=======
+Experimento 1
+>>>>>>> 51263d7 (Exp 1)
